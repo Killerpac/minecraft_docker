@@ -1,0 +1,11 @@
+UPDATE_REFRESH_TIME: 30
+WEB_PASSWORD: sanic12
+autoUpdate: true
+PORT: 8080
+translations: EN
+autoReloadOnUpdate: true
+PLAYER_RECORD: 0
+darkMode: true
+USE_NGROK: false
+NGROK_AUTH: ''
+FILE_VERSION: '0.7'
