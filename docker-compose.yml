@@ -1,0 +1,13 @@
+version: '3'
+services:
+  minecraft:
+    build: .
+    ports:
+      - "25565:25565"
+      - "9678:9678"
+    volumes:
+      - server:/server
+
+volumes:
+  server:
+  
